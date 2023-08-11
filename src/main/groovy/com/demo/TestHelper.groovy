@@ -1,4 +1,4 @@
 package com.demo
 
-trait SomeTrait {
+trait TestHelper {
 }
